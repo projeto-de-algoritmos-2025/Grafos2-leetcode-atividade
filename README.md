@@ -17,14 +17,14 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 ## Screenshots
 ### Questão
 ### [2492. Minimun Score of a Path Between Two Cities(Mid)](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
-![2492](assets/)
+![2492](assets/2492_Enunciado.PNG)
 
 ### Envio correto
-![2492-solved](assets/)
+![2492-solved](assets/2492_Resolvido.PNG)
 ### Tentativas
-![2492-tentativas](assets/)
+![2492-tentativas](assets/2492_Tentativa.PNG)
 
-**[Solução do Problema](hard/)**
+**[Solução do Problema](mid/2492_Minimun_Score_of_a_Path_Between_Two_Cities.py)**
 
 ### Questão
 ### [847. Shortest Path Visiting All Nodes(Hard)](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
