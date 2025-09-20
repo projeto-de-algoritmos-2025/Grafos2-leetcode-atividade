@@ -38,15 +38,15 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 **[Solução do Problema](hard/)**
 
 
-### [xxx. ]()
-![xxx](assets/)
+### [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description)
+![2045_Enunciado](assets/2045_Enunciado.PNG)
 
 ### Envio correto
-![xxx-solved](assets/)
+![2045_Resolvido](assets/2045_Resolvido.PNG)
 ### Tentativas
-![xxx-tentativas](assets/)
+![2045-tentativas](assets/2045_tentativas.PNG)
 
-**[Solução do Problema](mid/)**
+**[Solução do Problema](hard/2045_Second_Minimum_Time_to_Reach_Destination.py)**
 
 ### [xxx. ]()
 ![xxx](assets/)
