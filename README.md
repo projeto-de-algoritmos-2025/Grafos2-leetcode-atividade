@@ -28,14 +28,14 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 
 ### Questão
 ### [847. Shortest Path Visiting All Nodes(Hard)](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
-![847](assets/)
+![847](assets/847_Enunciado.PNG)
 
 ### Envio correto
-![847-solved](assets/)
+![847-solved](assets/847_Resolvido.PNG)
 ### Tentativas
-![847-tentativas](assets/)
+![847-tentativas](assets/847_Tentativas.PNG)
 
-**[Solução do Problema](hard/)**
+**[Solução do Problema](hard/847_Shortest_Path_Visiting_All_Nodes.py)**
 
 
 ### [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description)
