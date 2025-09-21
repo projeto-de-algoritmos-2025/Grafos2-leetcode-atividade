@@ -48,15 +48,15 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 
 **[Solução do Problema](hard/2045_Second_Minimum_Time_to_Reach_Destination.py)**
 
-### [xxx. ]()
-![xxx](assets/)
+### [3123. Find Edges in Shortest Paths ](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)
+![3123_Enunciado](assets/3123_Enunciado.PNG)
 
 ### Envio correto
-![xxx-solved](assets/)
+![3123_Resolvido](assets/3123_Resolvido.PNG)
 ### Tentativas
-![xxx-tentativas](assets/)
+![3123_tentativas](assets/3123_tentativas.PNG)
 
-**[Solução do Problema](hard/)**
+**[Solução do Problema](hard/3123_Find_Edges_in_Shortest_Paths.py)**
 
 
 ## Vídeo Explicativo
